@@ -1,4 +1,6 @@
-# fantastika
-Desafio 1 | Módulo 1 - Curso Front-End | Vai na Web 
+# Uma mini Wiki
+Desafio 1 | Módulo 1 
 
-Página focada na semântica HTML, contando um pouco sobre mim.
+Curso Front-End | Vai na Web 
+
+Página focada na semântica HTML, contando um pouco sobre Giovanni Montin (eu).
